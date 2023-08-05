@@ -1,0 +1,23 @@
+{
+  "name": "challenge-18",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kdubb219/NoSQL-Challenge-Social-Network-API.git"
+  },
+  "author": "Kyla Wise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kdubb219/NoSQL-Challenge-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/Kdubb219/NoSQL-Challenge-Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1"
+  }
+}
